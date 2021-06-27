@@ -1,0 +1,7 @@
+<resources>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_content">今日暂无课程</string>
+    <string name="today_course">今日课程</string>
+    <string name="need_login">您还没有导入课表</string>
+</resources>
